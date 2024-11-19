@@ -1,0 +1,14 @@
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\obj\Debug\net8.0\IfSatser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\obj\Debug\net8.0\IfSatser.AssemblyInfoInputs.cache
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\obj\Debug\net8.0\IfSatser.AssemblyInfo.cs
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\obj\Debug\net8.0\IfSatser.csproj.CoreCompileInputs.cache
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\bin\Debug\net8.0\IfSatser.exe
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\bin\Debug\net8.0\IfSatser.deps.json
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\bin\Debug\net8.0\IfSatser.runtimeconfig.json
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\bin\Debug\net8.0\IfSatser.dll
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\bin\Debug\net8.0\IfSatser.pdb
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\obj\Debug\net8.0\IfSatser.dll
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\obj\Debug\net8.0\refint\IfSatser.dll
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\obj\Debug\net8.0\IfSatser.pdb
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\obj\Debug\net8.0\IfSatser.genruntimeconfig.cache
+C:\Users\Isak.akerberg\C#\Uppgift If Satser\IfSatser\obj\Debug\net8.0\ref\IfSatser.dll
